@@ -39,6 +39,5 @@ To get started with the project, follow these steps:
 - [NumPy](https://numpy.org/)
 - [Matplotlib](https://matplotlib.org/)
 - [Pandas](https://pandas.pydata.org/)
-- [Scikit-learn](https://scikit-learn.org/stable/)
 
 Make sure to install these dependencies before running the code.
